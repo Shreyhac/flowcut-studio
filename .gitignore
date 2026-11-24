@@ -1,0 +1,19 @@
+# secrets + local state (never commit)
+config.json
+!config/*.example.json
+*.log
+*.jsonl
+*.db
+__pycache__/
+.DS_Store
+node_modules/
+.wrangler/
+out/
+ig_in/
+*.mp4
+*.mov
+*.wav
+*.mp3
+posting/instagram/jp_accounts.json
+posting/instagram/APPROVED.txt
+config/off_target.json

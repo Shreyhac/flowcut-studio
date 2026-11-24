@@ -1,0 +1,17 @@
+{
+  "graph_version": "v23.0",
+  "access_token": "PASTE_LONG_LIVED_IG_USER_TOKEN",
+  "app_secret": "OPTIONAL_only_needed_if_you_add_short_to_long_exchange",
+  "ig_user_id": "PASTE_YOUR_IG_USER_ID",
+
+  "keywords": ["send", "link", "guide"],
+  "reply_message": "Hey! Here's the link you asked for 👉 https://your-link.com\n\nThanks so much for watching 🙌",
+
+  "public_ack": false,
+  "public_ack_message": "Just sent you a DM! 📩",
+
+  "media_lookback": 25,
+  "comments_per_media": 100,
+  "once_per_user": false,
+  "send_delay_seconds": 2
+}

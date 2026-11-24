@@ -1,0 +1,5 @@
+{
+  "persona_a": {"handle": "your.account.handle", "name": "Display Name", "phone": "lava", "user": 0, "sibling": "persona_b", "proxy": "jp1", "created": "2026-11-20"},
+  "persona_b": {"handle": "second.account", "name": "Display Name", "phone": "realme", "user": 10, "sibling": "persona_a", "proxy": "jp1", "created": "2026-11-20"},
+  "persona_c": {"handle": "emulator.account", "name": "Display Name", "phone": "emulator", "user": 0, "proxy": "jp2", "created": "2026-11-21"}
+}

@@ -1,0 +1,5 @@
+{
+  "_doc": "Reels matching these are skipped in <1.2 s and marked Not interested, so each account's feed converges on its target market. Write patterns for the markets this deployment does NOT target (languages, scripts, region words).",
+  "text_regex": "\\b(example-region-word|another-word)\\b",
+  "name_regex": "example_creator_to_skip"
+}

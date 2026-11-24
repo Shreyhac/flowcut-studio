@@ -1,0 +1,2 @@
+# human approval allowlist: the scheduler never posts a name that is not here
+ig_highway_persona_a_v1

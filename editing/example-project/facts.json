@@ -1,0 +1,23 @@
+{
+ "_sources": "vid87/FACTS.md \u2014 every value below is quoted there with its URL and date",
+ "traffic_chip": "CLICKS FALLING",
+ "click_pct": "8%",
+ "click_label1": "STILL CLICK A LINK",
+ "click_label2": "WHEN GOOGLE SHOWS AN AI SUMMARY",
+ "click_source": "PEW RESEARCH, CITED BY CLOUDFLARE, JUL 2026",
+ "ratio_label": "PAGES CRAWLED PER VISITOR SENT BACK",
+ "ratio_google": "4.9 : 1",
+ "ratio_start": 40,
+ "ratio_to": 428,
+ "ratio_suffix": " : 1",
+ "ratio_source": "CLOUDFLARE RADAR \u00b7 4 WEEKS TO 16 SEP 2026",
+ "deals_to": 50,
+ "deals_label1": "PUBLISHER-AI LICENSING",
+ "deals_label2": "DEALS SIGNED SINCE 2023",
+ "deals_source": "SOURCE: CLOUDFLARE",
+ "b402": "1 BILLION+",
+ "b402_label": "402s sent to AI bots a day",
+ "b402_source": "CLOUDFLARE, AUG 2025",
+ "footnote": "*still invite-only",
+ "price_label": "PRICE PER CRAWL \u00b7 MIN $0.001"
+}

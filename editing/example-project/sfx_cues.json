@@ -1,0 +1,524 @@
+[
+ {
+  "id": "openP",
+  "t": 0.01,
+  "file": "paper.mp3",
+  "cls": "soft",
+  "dur": 0.5,
+  "vol": 0.061,
+  "target": -28.3
+ },
+ {
+  "id": "openSh",
+  "t": 0.14,
+  "file": "shine.mp3",
+  "cls": "shine",
+  "dur": 0.8,
+  "vol": 0.109,
+  "target": -23.3
+ },
+ {
+  "id": "gTurn",
+  "t": 0.5,
+  "file": "click.mp3",
+  "cls": "click",
+  "dur": 0.36,
+  "vol": 0.077,
+  "target": -26.3
+ },
+ {
+  "id": "pillNod",
+  "t": 0.92,
+  "file": "page.mp3",
+  "cls": "soft",
+  "dur": 0.3,
+  "vol": 0.065,
+  "target": -28.3
+ },
+ {
+  "id": "w01",
+  "t": 1.61,
+  "file": "wsh.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.097,
+  "target": -24.3
+ },
+ {
+  "id": "gIn",
+  "t": 1.73,
+  "file": "pop2.mp3",
+  "cls": "pop",
+  "dur": 0.42,
+  "vol": 0.122,
+  "target": -22.3
+ },
+ {
+  "id": "curs",
+  "t": 1.92,
+  "file": "pops.mp3",
+  "cls": "bed",
+  "dur": 0.62,
+  "vol": 0.068,
+  "target": -27.3
+ },
+ {
+  "id": "visCnt",
+  "t": 2.12,
+  "file": "beeps.mp3",
+  "cls": "soft",
+  "dur": 0.6,
+  "vol": 0.061,
+  "target": -28.3
+ },
+ {
+  "id": "w02",
+  "t": 2.66,
+  "file": "wsh2.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.096,
+  "target": -24.3
+ },
+ {
+  "id": "notes",
+  "t": 3.02,
+  "file": "page.mp3",
+  "cls": "soft",
+  "dur": 0.3,
+  "vol": 0.065,
+  "target": -28.3
+ },
+ {
+  "id": "upChip",
+  "t": 3.3,
+  "file": "pop.mp3",
+  "cls": "pop",
+  "dur": 0.273,
+  "vol": 0.12,
+  "target": -22.3
+ },
+ {
+  "id": "money",
+  "t": 3.44,
+  "file": "confirm.mp3",
+  "cls": "shine",
+  "dur": 0.6,
+  "vol": 0.109,
+  "target": -23.3
+ },
+ {
+  "id": "w03",
+  "t": 3.68,
+  "file": "wsh.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.097,
+  "target": -24.3
+ },
+ {
+  "id": "dealIn",
+  "t": 3.8,
+  "file": "thud.mp3",
+  "cls": "thud",
+  "dur": 0.34,
+  "vol": 0.145,
+  "target": -20.8
+ },
+ {
+  "id": "shake",
+  "t": 4.14,
+  "file": "glitch.mp3",
+  "cls": "marker",
+  "dur": 0.4,
+  "vol": 0.087,
+  "target": -25.3
+ },
+ {
+  "id": "ended",
+  "t": 4.46,
+  "file": "impact.mp3",
+  "cls": "impact",
+  "dur": 0.85,
+  "vol": 0.172,
+  "target": -19.3
+ },
+ {
+  "id": "snap",
+  "t": 4.6,
+  "file": "tear.mp3",
+  "cls": "trans",
+  "dur": 0.5,
+  "vol": 0.097,
+  "target": -24.3
+ },
+ {
+  "id": "w04",
+  "t": 4.93,
+  "file": "wsh2.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.096,
+  "target": -24.3
+ },
+ {
+  "id": "tiles",
+  "t": 5.05,
+  "file": "popcl.mp3",
+  "cls": "pop",
+  "dur": 0.5,
+  "vol": 0.122,
+  "target": -22.3
+ },
+ {
+  "id": "scan",
+  "t": 5.2,
+  "file": "keys.mp3",
+  "cls": "bed",
+  "dur": 0.5,
+  "vol": 0.068,
+  "target": -27.3
+ },
+ {
+  "id": "suck",
+  "t": 5.52,
+  "file": "swoosh.mp3",
+  "cls": "trans",
+  "dur": 0.4,
+  "vol": 0.097,
+  "target": -24.3
+ },
+ {
+  "id": "w05",
+  "t": 5.76,
+  "file": "wsh.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.097,
+  "target": -24.3
+ },
+ {
+  "id": "ring",
+  "t": 6.26,
+  "file": "marker.mp3",
+  "cls": "marker",
+  "dur": 0.55,
+  "vol": 0.086,
+  "target": -25.3
+ },
+ {
+  "id": "srcCut",
+  "t": 6.5,
+  "file": "slice.mp3",
+  "cls": "impact",
+  "dur": 0.5,
+  "vol": 0.16,
+  "target": -19.3
+ },
+ {
+  "id": "never",
+  "t": 6.66,
+  "file": "pop2.mp3",
+  "cls": "pop",
+  "dur": 0.42,
+  "vol": 0.122,
+  "target": -22.3
+ },
+ {
+  "id": "w06",
+  "t": 7.13,
+  "file": "wsh2.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.096,
+  "target": -24.3
+ },
+ {
+  "id": "crash",
+  "t": 7.34,
+  "file": "slowdown.mp3",
+  "cls": "trans",
+  "dur": 0.9,
+  "vol": 0.097,
+  "target": -24.3
+ },
+ {
+  "id": "ratio",
+  "t": 7.62,
+  "file": "beeps.mp3",
+  "cls": "soft",
+  "dur": 0.6,
+  "vol": 0.061,
+  "target": -28.3
+ },
+ {
+  "id": "drop",
+  "t": 7.8,
+  "file": "thud.mp3",
+  "cls": "thud",
+  "dur": 0.34,
+  "vol": 0.145,
+  "target": -20.8
+ },
+ {
+  "id": "dot",
+  "t": 8.26,
+  "file": "pop.mp3",
+  "cls": "pop",
+  "dur": 0.273,
+  "vol": 0.12,
+  "target": -22.3
+ },
+ {
+  "id": "anymore",
+  "t": 8.62,
+  "file": "impact.mp3",
+  "cls": "impact",
+  "dur": 0.8,
+  "vol": 0.172,
+  "target": -19.3
+ },
+ {
+  "id": "w07",
+  "t": 9.03,
+  "file": "wsh.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.097,
+  "target": -24.3
+ },
+ {
+  "id": "cfIn",
+  "t": 9.15,
+  "file": "shine.mp3",
+  "cls": "shine",
+  "dur": 0.8,
+  "vol": 0.109,
+  "target": -23.3
+ },
+ {
+  "id": "chClick",
+  "t": 10.1,
+  "file": "click.mp3",
+  "cls": "click",
+  "dur": 0.36,
+  "vol": 0.077,
+  "target": -26.3
+ },
+ {
+  "id": "cells",
+  "t": 10.23,
+  "file": "popcl.mp3",
+  "cls": "pop",
+  "dur": 0.5,
+  "vol": 0.122,
+  "target": -22.3
+ },
+ {
+  "id": "st402",
+  "t": 10.54,
+  "file": "impact.mp3",
+  "cls": "impact",
+  "dur": 0.85,
+  "vol": 0.172,
+  "target": -19.3
+ },
+ {
+  "id": "buzz",
+  "t": 10.68,
+  "file": "glitch.mp3",
+  "cls": "marker",
+  "dur": 0.4,
+  "vol": 0.087,
+  "target": -25.3
+ },
+ {
+  "id": "w08",
+  "t": 11.19,
+  "file": "wsh2.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.096,
+  "target": -24.3
+ },
+ {
+  "id": "info",
+  "t": 11.3,
+  "file": "thud.mp3",
+  "cls": "thud",
+  "dur": 0.34,
+  "vol": 0.145,
+  "target": -20.8
+ },
+ {
+  "id": "priceK",
+  "t": 11.44,
+  "file": "type.mp3",
+  "cls": "bed",
+  "dur": 0.45,
+  "vol": 0.068,
+  "target": -27.3
+ },
+ {
+  "id": "price",
+  "t": 12.04,
+  "file": "impact.mp3",
+  "cls": "impact",
+  "dur": 0.8,
+  "vol": 0.172,
+  "target": -19.3
+ },
+ {
+  "id": "decide",
+  "t": 12.26,
+  "file": "marker.mp3",
+  "cls": "marker",
+  "dur": 0.5,
+  "vol": 0.086,
+  "target": -25.3
+ },
+ {
+  "id": "w09",
+  "t": 12.52,
+  "file": "wsh.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.097,
+  "target": -24.3
+ },
+ {
+  "id": "coin",
+  "t": 12.76,
+  "file": "pop.mp3",
+  "cls": "pop",
+  "dur": 0.273,
+  "vol": 0.12,
+  "target": -22.3
+ },
+ {
+  "id": "paid",
+  "t": 13.12,
+  "file": "correct.mp3",
+  "cls": "shine",
+  "dur": 0.6,
+  "vol": 0.109,
+  "target": -23.3
+ },
+ {
+  "id": "walk",
+  "t": 13.34,
+  "file": "page.mp3",
+  "cls": "soft",
+  "dur": 0.3,
+  "vol": 0.065,
+  "target": -28.3
+ },
+ {
+  "id": "w10",
+  "t": 13.56,
+  "file": "wsh2.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.096,
+  "target": -24.3
+ },
+ {
+  "id": "bigCnt",
+  "t": 13.7,
+  "file": "beeps.mp3",
+  "cls": "soft",
+  "dur": 0.8,
+  "vol": 0.061,
+  "target": -28.3
+ },
+ {
+  "id": "log1",
+  "t": 14.0,
+  "file": "pop2.mp3",
+  "cls": "pop",
+  "dur": 0.42,
+  "vol": 0.122,
+  "target": -22.3
+ },
+ {
+  "id": "log2",
+  "t": 14.28,
+  "file": "pop2.mp3",
+  "cls": "pop",
+  "dur": 0.42,
+  "vol": 0.122,
+  "target": -22.3
+ },
+ {
+  "id": "log3",
+  "t": 14.6,
+  "file": "pop2.mp3",
+  "cls": "pop",
+  "dur": 0.42,
+  "vol": 0.122,
+  "target": -22.3
+ },
+ {
+  "id": "foot",
+  "t": 14.82,
+  "file": "marker.mp3",
+  "cls": "marker",
+  "dur": 0.5,
+  "vol": 0.086,
+  "target": -25.3
+ },
+ {
+  "id": "w11",
+  "t": 15.07,
+  "file": "wsh.mp3",
+  "cls": "trans",
+  "dur": 0.55,
+  "vol": 0.097,
+  "target": -24.3
+ },
+ {
+  "id": "ctaSh",
+  "t": 15.19,
+  "file": "shine.mp3",
+  "cls": "shine",
+  "dur": 0.8,
+  "vol": 0.109,
+  "target": -23.3
+ },
+ {
+  "id": "ctaType",
+  "t": 15.4,
+  "file": "type.mp3",
+  "cls": "bed",
+  "dur": 0.45,
+  "vol": 0.068,
+  "target": -27.3
+ },
+ {
+  "id": "sub",
+  "t": 15.64,
+  "file": "click.mp3",
+  "cls": "click",
+  "dur": 0.36,
+  "vol": 0.077,
+  "target": -26.3
+ },
+ {
+  "id": "taken1",
+  "t": 16.16,
+  "file": "thud.mp3",
+  "cls": "thud",
+  "dur": 0.34,
+  "vol": 0.145,
+  "target": -20.8
+ },
+ {
+  "id": "taken2",
+  "t": 16.52,
+  "file": "impact.mp3",
+  "cls": "impact",
+  "dur": 0.337,
+  "vol": 0.172,
+  "target": -19.3
+ }
+]

@@ -1,0 +1,30 @@
+{
+ "browse": {
+  "path": "assets/plates/browse.mp4",
+  "w": 840,
+  "h": 544,
+  "dur": 1.4,
+  "src": "vid87/stock/browse_7872722.mp4",
+  "src_wh": "1080x2048",
+  "ss": 2.4
+ },
+ "checkout": {
+  "path": "assets/plates/checkout.mp4",
+  "w": 1200,
+  "h": 676,
+  "dur": 1.4,
+  "src": "vid87/stock/checkout_10224109.mp4",
+  "src_wh": "2048x1080",
+  "ss": 0.6
+ },
+ "aianswer": {
+  "path": "assets/plates/aianswer.mp4",
+  "w": 1200,
+  "h": 676,
+  "dur": 1.7,
+  "src": "vid87/firstparty/raw/g_aim-migrating-birds_en-US.mov",
+  "src_wh": "1080x1350",
+  "ss": 5.55,
+  "speed": 1.6
+ }
+}
